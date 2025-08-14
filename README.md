@@ -131,22 +131,23 @@ PAN Stats: solicited/received/consumed
 
 src/
 ├── app/
-│   ├── page.tsx          # Main dashboard page
-│   ├── layout.tsx        # Root layout
-│   └── globals.css       # Global styles
+│   ├── page.tsx            # Main dashboard page
+│   ├── layout.tsx          # Root layout
+│   └── globals.css         # Global styles
+│
 ├── components/
-│   ├── Sidebar.tsx       # Navigation sidebar
-│   ├── TopNav.tsx        # Top navigation bar
-│   ├── StatsCard.tsx     # KYC statistics cards
-│   ├── BarChartComponent.tsx    # Bar chart component
-│   ├── CircularChart.tsx        # Pie chart component
-│   ├── StatusCard.tsx           # Status overview cards
-│   └── ProgressBar.tsx          # Progress bar component
+│   ├── Sidebar.tsx         # Navigation sidebar
+│   ├── TopNav.tsx          # Top navigation bar
+│   ├── StatsCard.tsx       # KYC statistics cards
+│   ├── BarChartComponent.tsx   # Bar chart component
+│   ├── CircularChart.tsx       # Pie chart component
+│   ├── StatusCard.tsx          # Status overview cards
+│   └── ProgressBar.tsx         # Progress bar component
+│
 └── lib/
-    ├── data.ts           # Mock data and types
-    └── utils.ts          # Utility functions
-
-
+    ├── data.ts             # Mock data and types
+    └── utils.ts            # Utility functions
+    
 **🎨 Design System**
 
 Palette: Professional blues & neutral grays
