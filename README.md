@@ -155,8 +155,8 @@ src/
 
 ## 📊 Visuals
 
-- ![KYC Dashboard Screenshot 1] (https://github.com/Roy1Priyanka/KYC-Dashboard_Assignment/blob/main/Webpage1.png)
-- ![KYC Dashboard Screenshot 2] (https://github.com/Roy1Priyanka/KYC-Dashboard_Assignment/blob/main/Webpage2.png)
+![KYC Dashboard Screenshot 1] (https://github.com/Roy1Priyanka/KYC-Dashboard_Assignment/blob/main/Webpage1.png)
+![KYC Dashboard Screenshot 2] (https://github.com/Roy1Priyanka/KYC-Dashboard_Assignment/blob/main/Webpage2.png)
 
 ---
 
