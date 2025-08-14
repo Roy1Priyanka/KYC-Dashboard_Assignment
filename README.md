@@ -1,8 +1,8 @@
-# KYC Dashboard
+**## KYC Dashboard**
 
 A modern, responsive Know Your Customer (KYC) dashboard built with Next.js 14, featuring real‑time style analytics, interactive charts, and a professional UI.
 
-✨ Highlights
+**✨ Highlights**
 
 Modern UI: Clean, professional interface powered by Tailwind CSS.
 
@@ -18,7 +18,7 @@ Progress Indicators: Category progress (RI/NRI) with accessible bars.
 
 Mock API/Data: Self‑contained demo data shipped in the repo.
 
-🧱 Tech Stack
+**🧱 Tech Stack**
 
 Framework: Next.js 14 (App Router)
 
@@ -32,7 +32,7 @@ Icons: lucide-react
 
 Dev Server: Turbopack (fast HMR)
 
-📦 Getting Started
+**📦 Getting Started**
 
 Prerequisites
 
@@ -42,20 +42,22 @@ Package Manager: npm, yarn, pnpm, or bun
 
 Installation
 
-# Clone the repo
+**# Clone the repo**
+
 git clone <your-repository-url>
 cd assignment
 
-# Install dependencies
+**# Install dependencies**
+
 npm install
-# or: yarn install
-# or: pnpm install
-# or: bun install
+- or: yarn install
+- or: pnpm install
+- or: bun install
 
 Development
 
 npm run dev
-# or: yarn dev / pnpm dev / bun dev
+- or: yarn dev / pnpm dev / bun dev
 
 Open your browser at http://localhost:3000.
 
@@ -66,7 +68,7 @@ npm run start
 
 Tip: Next.js 14 with the App Router uses file‑based routing under src/app. Turbopack powers the dev server by default.
 
-🧭 App Overview
+**🧭 App Overview**
 
 1) Sidebar Navigation
 
@@ -104,7 +106,7 @@ Categories: RI & NRI progress bars
 
 PAN & Data Stats: Solicited, Received, Consumed & related figures
 
-📈 Data Visualization
+**📈 Data Visualization**
 
 Bar Chart: Compare Individual vs Non‑Individual
 
@@ -124,7 +126,9 @@ Chart Series: sample datasets
 
 PAN Stats: solicited/received/consumed
 
-🔧 Project Structure
+
+**🔧 Project Structure**
+
 src/
 ├── app/
 │   ├── page.tsx          # Main dashboard page
@@ -142,7 +146,8 @@ src/
     ├── data.ts           # Mock data and types
     └── utils.ts          # Utility functions
 
-    🎨 Design System
+
+**🎨 Design System**
 
 Palette: Professional blues & neutral grays
 
@@ -156,9 +161,10 @@ Motion: Smooth hover/focus/press transitions
 
 Accessibility: Focus rings, semantic HTML, alt text on icons where needed
 
-📊 Visuals
 
-![KYC Dashboard Demo](demo-video.gif)
+**📊 Visuals**
+
+![KYC Dashboard Demo](https://github.com/Roy1Priyanka/KYC-Dashboard_Assignment/blob/main/KYC.mp4)
 
 📱 Responsive Behavior
 
